@@ -23,15 +23,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Harvard University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Clinical Psychology
+    institution: University of Houston
+    year: 1992
+  - course: MA in Clinical Psychology
+    institution: University of Houston
+    year: 1990
+  - course: BA in Psychology and Religious Studies
+    institution: Rice University
+    year: 1984
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,8 +68,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Mahoney has published observational and survey-based research on links between marriage, parenting, and child adjustment. Since 1995, she has co-directed the Spirituality and Psychology Research Team (S.P.i.R.i.T.). and her research focuses on the positive and negative roles that religion and spirituality play for individuals and families. In collaboration with Drs. Kenneth I. Pargament and Al DeMaris, she is the PI on a longitudinal study on the spiritual/religion aspects of marriage, pregnancy, and the transition to parenthood (i.e., New Arrivals: Passage to Parenthood Study or NAPPS), a project generously funded by the Templeton Foundation.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
